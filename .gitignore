@@ -1,0 +1,8 @@
+.gradle
+.idea
+#ignoring build directories in any subfolder
+build/
+#ignoring out directory used by IDEA
+/out
+*.iml
+
